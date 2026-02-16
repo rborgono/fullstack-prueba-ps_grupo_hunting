@@ -48,3 +48,5 @@ Por otro lado, el frontend fue desarrollado en Angular (también por la mayor ex
 Por simplicidad y por ser una prueba técnica, se estructuró todo en una misma página, con los filtros de fechas arriba y el resultado de las ventas y ventas por región más abajo.
 
 Finalmente, se puede mencionar que no se encontraron durante el desarrollo partes de extrema complejidad en la prueba. Más que la complejidad en sí, tal vez la parte más técnica por el lado del front fue cómo se iba a desplegar la solución y qué herramientas se utilizarían para el despliegue. Se decidió el uso de componentes que es lo que divide una página web en Angular en partes más pequeñas y el uso de comunicación entre componentes para la emisión de eventos desde la interfaz y la renderización de datos en la pantalla. No es algo complejo, pero si no se estructura bien, se puede complicar.
+
+TIEMPO TOTAL UTILIZADO (estimado): 2,5 días.
